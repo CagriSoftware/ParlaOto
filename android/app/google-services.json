@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325390995819",
+    "project_id": "araba-yikama-app",
+    "storage_bucket": "araba-yikama-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325390995819:android:b551375b9481b61d737c2e",
+        "android_client_info": {
+          "package_name": "com.yazicisoftware.araba_yikama_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP4kWhQH8ioo8xRIdGD6IqtK7Dj20dE-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
