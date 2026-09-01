@@ -12,7 +12,7 @@
         <!-- Google Maps API Key Eklendi -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCsT7_F-i0F8W2_suiwDnDsK2jDF9Yz_7Q" />
+            android:value="AIzaSyBQC8iF9qemX06ilrCTz5UUm88FoVljPO4" />
 
         <activity
             android:name=".MainActivity"
